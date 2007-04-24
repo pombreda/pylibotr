@@ -1,0 +1,4 @@
+created by NH with help from cmake, gccxml, and ctypes
+  
+h2xml.py auth.h proto.h b64.h context.h dh.h mem.h message.h privkey-t.h privkey.h serial.h tlv.h userstate.h version.h -I/usr/local/include/libotr/ -c -o allH.xml  
+xml2py.py allH.xml -o allH.py -lotr
