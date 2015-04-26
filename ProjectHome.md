@@ -1,0 +1,1 @@
+A ctypes interface to libotr which allows python to access libotr.  Libotr is a library that implements off the record messaging.  See http://www.cypherpunks.ca/otr/
